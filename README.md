@@ -26,7 +26,6 @@ A custom 16-key macropad built with a Seeed Studio XIAO RP2040, per-key RGB LEDs
 | 0.91" OLED display (GND-VCC-SCL-SDA) | 1 |
 | DSA white blank keycaps | 16 |
 | Capacitor 100µF | 1 |
-| Capacitor 100nF | 1 |
 | M3x16mm screws | 4 |
 | M3x5x4mm heatset inserts | 4 |
 
