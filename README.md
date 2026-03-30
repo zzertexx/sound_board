@@ -51,7 +51,7 @@ A custom 16-key macropad built with a Seeed Studio XIAO RP2040, per-key LEDs, an
 
 ## Schematic & PCB
 
-Designed in KiCad 9.0. All source files are in the `/pcb` directory.
+Designed in KiCad 9.0. All source files are in the PCB directory.
 
 - 4×4 keyboard matrix with diodes
 - SK6812 MINI-E LEDs placed on bottom layer under each switch
