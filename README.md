@@ -25,7 +25,7 @@ A custom 16-key macropad built with a Seeed Studio XIAO RP2040, per-key LEDs, an
 | SK6812 MINI-E LEDs | 16 |
 | 0.91" OLED display | 1 |
 | DSA white blank keycaps | 16 |
-| Resistor 100µF | 1 |
+| Resistor 330 ohms | 1 |
 | M3x16mm screws | 4 |
 | M3x5x4mm heatset inserts | 4 |
 
@@ -57,3 +57,11 @@ Designed in KiCad 9.0. All source files are in the `/pcb` directory.
 - SK6812 MINI-E LEDs placed on bottom layer under each switch
 - OLED connected via I2C
 - Resistor on GP10 rail for LED stability
+
+---
+
+## Images
+
+<img width="1532" height="908" alt="sch" src="https://github.com/user-attachments/assets/5f8f5f90-bc32-4e90-9154-2b26d3328ea6" />
+<img width="693" height="870" alt="pcb" src="https://github.com/user-attachments/assets/75dc8b23-704c-4a1c-90fb-1e438f0c019d" />
+<img width="1067" height="775" alt="case" src="https://github.com/user-attachments/assets/4f814eb1-2566-4d88-881f-ed4a09825b28" />
